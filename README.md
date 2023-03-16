@@ -1,2 +1,2 @@
 # YourMomsFile-Encryptor
-this program is supposed to be a lightweight file encryptot using python. 
+this program is intended to be a lightweight file encryptor using python. 
